@@ -1,2 +1,3 @@
 node_modules/
-config/keys.js
+/devconnector_theme
+config/keys_dev.js
